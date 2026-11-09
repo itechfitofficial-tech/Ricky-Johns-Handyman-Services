@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- TODO: replace example.com with the real domain. Add <lastmod> when pages go live. -->
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url><loc>https://www.example.com/</loc></url>
+  <url><loc>https://www.example.com/handyman-services/</loc></url>
+  <url><loc>https://www.example.com/junk-removal/</loc></url>
+  <url><loc>https://www.example.com/dump-trailer-services/</loc></url>
+  <url><loc>https://www.example.com/hauling-car-carrier/</loc></url>
+  <url><loc>https://www.example.com/gallery/</loc></url>
+  <url><loc>https://www.example.com/service-areas/</loc></url>
+  <url><loc>https://www.example.com/about/</loc></url>
+  <url><loc>https://www.example.com/contact/</loc></url>
+</urlset>
